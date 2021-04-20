@@ -4,7 +4,7 @@ package computer;
 
 public class Computer {
 
-     protected int wordsize;
+    protected int wordsize;
     protected int memorysize;
     protected int storagesize;
     protected int speed;
@@ -78,5 +78,8 @@ public class Computer {
     
     
     
+    
+
+
     
 
