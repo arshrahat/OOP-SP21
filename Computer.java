@@ -4,10 +4,10 @@ package computer;
 
 public class Computer {
 
-     protected int wordsize;//in bits
-    protected int memorysize;//in megabytes
-    protected int storagesize;//in megabytes
-    protected int speed;//in megaHertz
+     protected int wordsize;
+    protected int memorysize;
+    protected int storagesize;
+    protected int speed;
     public Computer(){
         wordsize=0;
         memorysize=0;
