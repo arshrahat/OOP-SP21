@@ -5,7 +5,7 @@ package clock;
 public class clockextended extends Clock {
     
     
-	public clockextended(int hours, int minutes, int seconds) 
+	public clockextended(int hour, int minutes, int seconds) 
     {
         super(hour, minutes, seconds);
     }
